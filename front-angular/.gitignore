@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+dist/
+.angular/
+.next/
+out/
+
+# Variables de entorno
+.env
+.env.local
+
+# Logs y otros
+npm-debug.log*
+.DS_Store
